@@ -17,6 +17,6 @@ public class HoverTests extends BaseTests {
         assertTrue(caption.getLink().endsWith("/users/1"), "Link incorrect");
 
 
-        //wwwwwwwwwwwww
+        //wwwwwwwwwww nico
     }
 }
